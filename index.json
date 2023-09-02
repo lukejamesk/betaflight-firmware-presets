@@ -175,6 +175,7 @@
       "Jye Smith",
       "KMfpv",
       "LeadFingers",
+      "Luke King",
       "MinChan Kim",
       "mouseFPV",
       "MrAlucardDante",
@@ -829,8 +830,8 @@
     },
     {
       "fullPath": "presets/4.3/osd/Luke_Analog.txt",
-      "hash": "006769a4069898dfeafe96bfd482856be8abc7e3fe20fe1f331ddeb746152d13",
-      "title": "UAV Tech - Analog",
+      "hash": "642a772d1b5d70009507f0ff9c87c502b2f58535593ae08aaf428b6911c4bb37",
+      "title": "Luke - Analog",
       "firmware_version": [
         "4.3"
       ],
@@ -839,7 +840,7 @@
       "keywords": [
         "analog"
       ],
-      "author": "UAV Tech (Mark Spatz)",
+      "author": "Luke King",
       "priority": 0
     },
     {
